@@ -3,6 +3,8 @@
 A devotional Flutter application dedicated to **Shri Jagannath Ji**, featuring sacred texts, divine images, and soulful bhajans.
 The app provides a peaceful and immersive spiritual experience for devotees.
 
+![GeetGovindDemo](https://github.com/KrishBharadwaj5678/GeetGovind/raw/main/GeetGovindDemo.jpeg)
+
 ## ✨ Features
 
 | Feature             | Description                                                                           |
