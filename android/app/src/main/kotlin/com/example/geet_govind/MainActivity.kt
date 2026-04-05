@@ -1,4 +1,4 @@
-package com.example.geet_govind
+package com.byteaura.geetgovind
 
 import io.flutter.embedding.android.FlutterActivity
 
