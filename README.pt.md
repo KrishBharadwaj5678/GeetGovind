@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 🕉️ Geet Govind
 
 Um aplicativo devocional desenvolvido em **Flutter**, dedicado ao **Shri Jagannath Ji**, com textos sagrados, imagens divinas e bhajans inspiradores. O aplicativo proporciona uma experiência espiritual tranquila e imersiva para os devotos.
