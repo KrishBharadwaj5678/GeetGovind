@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 🕉️ Geet Govind
 
 Духовное Flutter-приложение, посвящённое **Шри Джаганнатху**.
